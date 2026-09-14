@@ -15,4 +15,9 @@ issues related to footprint so that had to be fixed.
 
 Lapse: https://lapse.hackclub.com/timelapse/lmbW12xKm2o3  
 
-# Making the Firmware! | 
+# Making the Firmware! | 40 mins 
+**AI ussage declaration: Ai has been used for writing the skeleton of this firmware because it was hard to start from zero hence i had to learn how the main frimware will work and later i spet time on making my final code**  
+i had to learn what libs it will use and how i'll be making the main sections.   
+i used chatgpt to learn the skeleton of the firmware 
+
+# 
