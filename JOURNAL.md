@@ -11,7 +11,9 @@ so i stopped doomscrolling and sat on my PCB and started the initial research.*
 the main reason why it took so long is because i had to debugg footprint issues again and again and work around with the resistors.  
 while making the schematic i realized that the 2 10K resistors that were in the tutorial were pointless for my build so  
 i had to remove them as the potentiometers were already connected to the ground and the other thing being the DRC list which kept flagging  
-issues related to footprint so that had to be fixed.  
+issues related to footprint so that had to be fixed. 
+<img width="806" height="551" alt="14 09 2026_14 18 17_REC" src="https://github.com/user-attachments/assets/5372f0da-806d-4273-b12e-9b1b41ba6dcb" />
+
 
 Lapse: https://lapse.hackclub.com/timelapse/lmbW12xKm2o3  
 
@@ -20,4 +22,9 @@ Lapse: https://lapse.hackclub.com/timelapse/lmbW12xKm2o3
 i had to learn what libs it will use and how i'll be making the main sections.   
 i used chatgpt to learn the skeleton of the firmware 
 
-# 
+# CAD | 1 hour 23 mins
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/17189bdc-cb01-4642-aafc-7112e4ededb1" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c96fd66b-0ca9-469a-89f3-bd009788ab7b" />
+
+Lapse: https://lapse.hackclub.com/timelapse/YyshfXtkXlj3
