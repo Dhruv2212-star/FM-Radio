@@ -8,4 +8,18 @@
 7.  m = mute/unmute  
 8.  i = print radio status
 
+**PCB Dimentions- 40mm x 55mm x 1.6 mm**  
+
+# How to use the final Radio?
+To use the final radio, connect the microcontroller to your laptop/desktop and flash the firmware on and it'll show a new panel, you can use the above keys for the controls  
+
+## Case
+our case is made into 2 parts, the Bottom case and the Top case, the top case will snugly fit on the bottom case because of it's low tolerance 
+
+**Top Case**  
+<img width="697" height="464" alt="image" src="https://github.com/user-attachments/assets/87fd3507-784d-48ed-80dc-40d5d2da60cc" />
+
+**Bottom Case** 
+
+<img width="635" height="441" alt="image" src="https://github.com/user-attachments/assets/436f8bc9-1b10-47b5-ba4a-8413ab9e46ef" />
 
