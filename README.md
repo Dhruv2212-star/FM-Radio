@@ -23,3 +23,8 @@ our case is made into 2 parts, the Bottom case and the Top case, the top case wi
 
 <img width="635" height="441" alt="image" src="https://github.com/user-attachments/assets/436f8bc9-1b10-47b5-ba4a-8413ab9e46ef" />
 
+# Final Assembly 
+what our final product will look like (ignore the empty spaces, its for speakers) 
+<img width="557" height="479" alt="Image of proj" src="https://github.com/user-attachments/assets/d4f9a909-03b6-4fd2-b93c-800f7bf7b74e" />
+
+
