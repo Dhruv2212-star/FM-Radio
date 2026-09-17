@@ -1,16 +1,17 @@
-Ref,Value,Description,Qty,KiCad Symbol,Footprint,India seller,Unit cost (INR),Buy / product page
-U1,MOUDLE-SEEEDUINO-XIAO,Seeed Studio XIAO RP2040,1,XIAO_RP2040:MOUDLE-SEEEDUINO-XIAO,my footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM,Robocraze,?589,https://robocraze.com/pages/seeed-studio
-U2,RDA5807MRRD-102V2.0,RDA5807M RRD-102 V2.0 FM module,1,Static_Symbol_Library:RDA5807MRRD-102V2.0,Static:RDA5807,ElectronicsComp,?67.26,https://www.electronicscomp.com/rda5807m-fm-stereo-radio-module-rrd-102v2.0-wireless-pro-for-arduino-tuner
-U3,TDA2822NBD,"TDA2822 dual audio amplifier, DIP-8",1,Static_Symbol_Library:TDA2822NBD,Package_DIP:DIP-8_W7.62mm,Robu.in (equivalent TDA2822M),?9,https://robu.in/product-category/electronic-components/integrated-circuits/audio-ic/
-RV1,10K,WH148 10K potentiometer,1,Device:R_Potentiometer,Connector:FanPinHeader_1x03_P2.54mm_Vertical,AM Electronics India,?12,https://amelectronics.in/product/10k-potentiometer/
-RV2,10K,WH148 10K potentiometer,1,Device:R_Potentiometer,Connector:FanPinHeader_1x03_P2.54mm_Vertical,AM Electronics India,?12,https://amelectronics.in/product/10k-potentiometer/
-C1,100uF,100 µF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,??3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
-C2,100uF,100 µF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,??3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
-C3,100uF,100 µF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,??3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
-C4,100uF,100 µF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,??3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
-C5,100uF,100 µF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,??3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
-CN1,PJ-3200,"3.5 mm stereo audio jack, PJ-3200",1,Static_Symbol_Library:PJ-3200,Static:AUDIO-TH_PJ-3200,Evelta,?4.72,https://evelta.com/3-5mm-female-audio-jack-connector-3pin-1/
-TP1,SP1 +,"SMD solder pad, 4x4 mm",1,Connector:TestPoint,TestPoint:TestPoint_Pad_4.0x4.0mm,,—,https://kicad.github.io/footprints/TestPoint.html
-TP2,SP -,"SMD solder pad, 4x4 mm",1,Connector:TestPoint,TestPoint:TestPoint_Pad_4.0x4.0mm,,—,https://kicad.github.io/footprints/TestPoint.html
-TP3,SP2 +,"SMD solder pad, 4x4 mm",1,Connector:TestPoint,TestPoint:TestPoint_Pad_4.0x4.0mm,,—,https://kicad.github.io/footprints/TestPoint.html
-TP4,SP2 -,"SMD solder pad, 4x4 mm",1,Connector:TestPoint,TestPoint:TestPoint_Pad_4.0x4.0mm,,—,https://kicad.github.io/footprints/TestPoint.html
+ï»¿Ref,Value,Description,Qty,KiCad Symbol,Footprint,India seller,Unit cost (INR),Buy / product page
+U1,MOUDLE-SEEEDUINO-XIAO,Seeed Studio XIAO RP2040,1,XIAO_RP2040:MOUDLE-SEEEDUINO-XIAO,my footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM,Robocraze,INR 589,https://robocraze.com/pages/seeed-studio
+U2,RDA5807MRRD-102V2.0,RDA5807M RRD-102 V2.0 FM module,1,Static_Symbol_Library:RDA5807MRRD-102V2.0,Static:RDA5807,ElectronicsComp,INR 67.26,https://www.electronicscomp.com/rda5807m-fm-stereo-radio-module-rrd-102v2.0-wireless-pro-for-arduino-tuner
+U3,TDA2822NBD,"TDA2822 dual audio amplifier, DIP-8",1,Static_Symbol_Library:TDA2822NBD,Package_DIP:DIP-8_W7.62mm,Robu.in (equivalent TDA2822M),INR 9,https://robu.in/product-category/electronic-components/integrated-circuits/audio-ic/
+RV1,10K,WH148 10K potentiometer,1,Device:R_Potentiometer,Connector:FanPinHeader_1x03_P2.54mm_Vertical,AM Electronics India,INR 12,https://amelectronics.in/product/10k-potentiometer/
+RV2,10K,WH148 10K potentiometer,1,Device:R_Potentiometer,Connector:FanPinHeader_1x03_P2.54mm_Vertical,AM Electronics India,INR 12,https://amelectronics.in/product/10k-potentiometer/
+C1,100uF,100 ÂµF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,INR 3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
+C2,100uF,100 ÂµF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,INR 3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
+C3,100uF,100 ÂµF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,INR 3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
+C4,100uF,100 ÂµF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,INR 3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
+C5,100uF,100 ÂµF polarized electrolytic capacitor,1,Device:C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,ElectronicsComp,INR 3.74,https://www.electronicscomp.com/100uf-16v-electrolytic-capacitor
+CN1,PJ-3200,"3.5 mm stereo audio jack, PJ-3200",1,Static_Symbol_Library:PJ-3200,Static:AUDIO-TH_PJ-3200,Evelta,INR 4.72,https://evelta.com/3-5mm-female-audio-jack-connector-3pin-1/
+TP1,SP1 +,"SMD solder pad, 4x4 mm",1,Connector:TestPoint,TestPoint:TestPoint_Pad_4.0x4.0mm,,Â—,https://kicad.github.io/footprints/TestPoint.html
+TP2,SP -,"SMD solder pad, 4x4 mm",1,Connector:TestPoint,TestPoint:TestPoint_Pad_4.0x4.0mm,,Â—,https://kicad.github.io/footprints/TestPoint.html
+TP3,SP2 +,"SMD solder pad, 4x4 mm",1,Connector:TestPoint,TestPoint:TestPoint_Pad_4.0x4.0mm,,Â—,https://kicad.github.io/footprints/TestPoint.html
+TP4,SP2 -,"SMD solder pad, 4x4 mm",1,Connector:TestPoint,TestPoint:TestPoint_Pad_4.0x4.0mm,,Â—,https://kicad.github.io/footprints/TestPoint.html
+TOTAL COST,,,,,,,INR 712.68,
