@@ -1,4 +1,7 @@
-# Virtual Controls for our radio-  
+# Dhruv's FM-Radio 
+A simple FM radio that can search for channels and connect to them with the given controls from 87-108 MHz that can fit in your palms !  
+
+## Virtual Controls for our radio-  
 1.  s = seek up  
 2.  S = seek down  
 3. "+" = tune +100 kHz  
@@ -27,6 +30,8 @@ our case is made into 2 parts, the Bottom case and the Top case, the top case wi
 what our final product will look like (ignore the empty spaces, its for speakers) 
 <img width="557" height="479" alt="Image of proj" src="https://github.com/user-attachments/assets/d4f9a909-03b6-4fd2-b93c-800f7bf7b74e" />
 
-## PCB model
+## PCB 
+<img width="870" height="483" alt="image" src="https://github.com/user-attachments/assets/2f049704-bedf-4ba2-a37d-03cae7398a1b" />
+
 <img width="590" height="618" alt="14 09 2026_14 19 05_REC" src="https://github.com/user-attachments/assets/9699fb6f-f28c-4e98-838f-cf342c0d7f6c" />
 
